@@ -1,49 +1,44 @@
-# Bytewise Fellowship (MERN) - Daily Progress
+# Hi there 👋, I'm @Dev-Abs
 
-Welcome to my Bytewise Fellowship (MERN) repository! This repository will serve as a daily log of my progress throughout the 3-month fellowship program.
+## 👋 Hi, I’m @Dev-Abs
+- **👀 I’m interested in**: Web Development, Open Source, and Cloud Computing.
+- **🌱 I’m currently learning**: The MERN Stack (MongoDB, Express.js, React, Node.js) through the Bytewise Fellowship.
+- **💞️ I’m looking to collaborate on**: Open source projects, especially those related to web development and improving developer tools.
+- **📫 How to reach me**:
+  - **Email**: [Email](abdullahubaid257foru@gmail.com)
+  - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/muhammadabdullahubaid/)
+- **😄 Pronouns**: He/Him
+- **⚡ Fun fact**: I love reading poetry, playing cricket, and am huge pakistani cricket team fan
 
-## About the Fellowship
+## About Me
 
-The Bytewise Fellowship is an intensive program focused on mastering the MERN stack (MongoDB, Express.js, React, Node.js). Over the course of three months, I will be working on various projects and assignments to enhance my skills in full-stack development.
+I'm a passionate web developer with a keen interest in building scalable and efficient applications. Currently, I'm focused on honing my skills in the MERN stack, working on various projects and contributing to the open-source community.
 
-## Repository Structure
+## GitHub Stats
 
-The repository is structured to reflect my day-to-day progress. Each folder corresponds to a specific day, containing all the relevant code, notes, and resources for that day's work.
-
-
-
-## Weekly Progress
-
-### Week 1
-- **Day 1**: HTML 
-- **Day 2**: CSS
-- **Day 3**: More on CSS
-- **Day 4**: CSS Advance
-- **Day 5**: Git and Github
-  
-contd.
+![Dev-Abs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Abs&show_icons=true&theme=radical)
 
 ## Projects
 
-Throughout the fellowship, I will be working on several projects to apply the concepts learned. The projects will be listed here along with links to their specific directories within the repository.
+### Notable Projects
 
-...
+- **Project 1: iNotebook**
+  - **Description**: An online notebook application to organize notes efficiently.
+  - **Technologies Used**: MongoDB, Express.js, React, Node.js.
+  - **Link to Project**: [iNotebook Repository](https://github.com/Dev-Abs/inotebook)
 
-## Learning Resources
+- **Project 2: My News App**
+  - **Description**: A newspaper website leveraging efficient use of APIs for dynamic content.
+  - **Technologies Used**: MongoDB, Express.js, React, Node.js.
+  - **Link to Project**: [Newspaper Website Repository](https://github.com/Dev-Abs/mynewsapp)
 
-- [Official MongoDB Documentation](https://docs.mongodb.com/)
-- [Express.js Documentation](https://expressjs.com/)
-- [React Documentation](https://reactjs.org/docs/getting-started.html)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
+## Contact Me
 
-## Contact
+Feel free to reach out to me if you have any questions, suggestions, or if you just want to connect!
 
-If you have any questions or suggestions, feel free to reach out to me!
-
-- **Email**: [Email](abdullahubaid257foru@gmail.com)
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/muhammadabdullahubaid/)
+  - **Email**: [Email](abdullahubaid257foru@gmail.com)
+  - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/muhammadabdullahubaid/)
 
 ---
 
-Thank you for visiting my repository! Stay tuned for daily updates.
-
+Thank you for visiting my profile! Looking forward to connecting with you.
