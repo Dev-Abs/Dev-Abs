@@ -1,7 +1,7 @@
 # Hi there 👋, I'm @Dev-Abs
 
 ## 👋 Hi, I’m @Dev-Abs
-- **👀 I’m interested in**: Web Development, Open Source, and Cloud Computing.
+- **👀 I’m interested in**: Web Development, ML,AI,chip/IC design.
 - **🌱 I’m currently learning**: The MERN Stack (MongoDB, Express.js, React, Node.js) through the Bytewise Fellowship.
 - **💞️ I’m looking to collaborate on**: Open source projects, especially those related to web development and improving developer tools.
 - **📫 How to reach me**:
