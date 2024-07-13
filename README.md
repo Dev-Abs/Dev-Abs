@@ -18,7 +18,7 @@ I'm a passionate web developer with a keen interest in building scalable and eff
 
 ![Dev-Abs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Abs&show_icons=true&theme=radical)
 
-[![Dev-Abs' GitHub Streak](https://streak-stats.demolab.com/?user=Dev-Abs)](https://git.io/streak-stats)
+![Dev-Abs' GitHub Streak](https://streak-stats.demolab.com/?user=Dev-Abs)
 
 ## Projects
 
