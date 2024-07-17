@@ -16,9 +16,11 @@ I'm a passionate web developer with a keen interest in building scalable and eff
 
 ## GitHub Stats
 
-![Dev-Abs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Abs&show_icons=true&theme=radical)
+![Dev-Abs' GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Abs&show_icons=true&theme=dark)
 
-![Dev-Abs' GitHub Streak](https://streak-stats.demolab.com/?user=Dev-Abs)
+![Dev-Abs' GitHub Streak](https://streak-stats.demolab.com/?user=Dev-Abs&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Abs&layout=pie&theme=dark)
 
 ## Projects
 
