@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=devabs)
 # Hi there 👋, I'm @Dev-Abs
 
 ## 👋 Hi, I’m @Dev-Abs
